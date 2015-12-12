@@ -1,2 +1,2 @@
 # MatlabTrafficTolbox
-A Matlab's Toolbox for traffic control &amp; simulations.
+A Matlab's Toolbox for traffic control &amp; simulations.The idea with this software is developt a free and easy emulator for educational reasons in traffic modeling and control. It is known that in software package as PTV VISSIM you can't set the dynamics equations and remove some variables that you dont want. All these reasons are my motivations to developt in the fellow months a total free/open Traffic toolbox for Matlab.
